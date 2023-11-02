@@ -7,3 +7,4 @@ Currently containing:
 - radare2 (requires installation once the container is built -> radare2/sys/install.sh)
 - INetSim
 - Volatility3
+- oletools
